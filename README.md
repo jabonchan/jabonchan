@@ -73,6 +73,6 @@ and Kirby :pink_heart: are the best. Oh, also the green Mario is cool—_, play 
 
 ### Why do you mention all this stuff? This is GitHub, not Club Penguin.
 
-idk, why did you read it all?
+Idk, but hey, thanks for reading it all! :thumbsup: You're cool
 
 <hr />
