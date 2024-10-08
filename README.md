@@ -56,7 +56,7 @@ That's a great question! Well, a bit of some things, the basics _—in SOME case
 
 ### You seem to have tons of free time, do you have a life?
 
-Haha, no. As any good programmer, I don't sleep, eat, or behave like a normal human being <sup><sub>The latter is not because of being a programmer though</sub></sup>.  
+Haha, no. As any good programmer, I don't sleep, eat, or behave like a normal human being <sup><sub>The latter is not because of being a programmer though</sub></sup>.
 I don't have a job <sup><sub>Never had one, not sure if I should cry or laugh :upside_down_face:</sub></sup>.
 
 <hr />
