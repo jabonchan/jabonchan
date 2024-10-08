@@ -12,8 +12,7 @@ In case you're wondering <sup><sub>you're probably not</sup></sub>, I started re
 but I have already surpassed a decade since I started :partying_face:</sub></sup>. So, I guess that despite not having a lot of _"high-quality code practices"_, I
 do feel I have somewhat decent programming skills. I can achieve what I want, so, uh, that's great <sup><sub>I guess</sub></sup>.
 
-<hr />
-<br /> <!-- Why do I need to do this markdown? srsly -->
+---
 
 ### So, what do you know?
 
@@ -51,16 +50,14 @@ That's a great question! Well, a bit of some things, the basics _—in SOME case
   - The basics-not-so-basics of C++. My hardest project was coding a Wii U homebrew app <sup><sub>Whether it was a success or not is a different story</sub></sup>.
   - The basics of the <sup><sub>awful</sub></sup> Windows API.
 
-<hr />
-<br /> <!-- Why do I need to do this markdown? srsly -->
+---
 
 ### You seem to have tons of free time, do you have a life?
 
 Haha, no. As any good programmer, I don't sleep, eat, or behave like a normal human being <sup><sub>The latter is not because of being a programmer though</sub></sup>.
 I don't have a job <sup><sub>Never had one, not sure if I should cry or laugh :upside_down_face:</sub></sup>.
 
-<hr />
-<br /> <!-- Why do I need to do this markdown? srsly -->
+---
 
 ### Anyways, what do you like doing?
 
@@ -68,11 +65,10 @@ Thanks! You probably didn't ask, but here goes my explanation of my hobbies, lik
 an extremely awkward way</sub></sup>. I draw sometimes, sing all day <sup><sub>That's very unfortunate for my neighbors</sub></sup>, play video games _—Mario
 and Kirby :pink_heart: are the best. Oh, also the green Mario is cool—_, play instruments, and, did I already mention I like programming?
 
-<hr />
-<br /> <!-- Why do I need to do this markdown? srsly -->
+---
 
 ### Why do you mention all this stuff? This is GitHub, not Club Penguin.
 
 Idk, but hey, thanks for reading it all! :thumbsup: You're cool
 
-<hr />
+---
