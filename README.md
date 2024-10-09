@@ -6,7 +6,7 @@ I'm **jabonchan**. I like coding <sup><sub>well, yeah, why else would I be doing
 
 As you may have already noticed, my native language isn't English. My native language is Spanish, and, as with everything programming-related I know, I learned English on my own, so I may or may not make mistakes when using it.
 
-In case you're wondering <sup><sub>you're probably not</sup></sub>, I started researching/learning all this stuff when I was 9 <sup><sub>Not gonna say a lot here, but I have already surpassed a decade since I started 🥳</sub></sup>. So, I guess that despite not having a lot of _"high-quality code practices"_, I do feel I have somewhat decent programming skills. I can achieve what I want, so, uh, that's great <sup><sub>I guess</sub></sup>.
+In case you're wondering <sup><sub>you're probably not</sup></sub>, I started researching/learning all this stuff when I was 11 <sup><sub>Not gonna say a lot here, but a ton of years have passed since then! 🥳</sub></sup>. So, I guess that despite not having a lot of _"high-quality code practices"_, I do feel I have somewhat decent programming skills. I can achieve what I want, so, uh, that's great <sup><sub>I guess</sub></sup>.
 
 ---
 
