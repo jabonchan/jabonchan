@@ -43,9 +43,9 @@ That's a great question! Well, a bit of some things, the basics _—in SOME case
 - **Programming** ✏️
   - I feel confident coding in JavaScript and TypeScript.
   - Deno 🦕 and Node.js 🟩 <sup><sub>Haven't used it in a while though</sub></sup>.
-  - The basics-not-so-basics of C++.
+  - The basics of C++.
   - I made a Wii U homebrew app with C++ once <sup><sub>Whether it was a success or not is a different story</sub></sup>.
-  - The basics of the <sup><sub>awful</sub></sup> Windows API.
+  - The basics of the Windows API.
 
 ---
 
